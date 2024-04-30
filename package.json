@@ -1,5 +1,5 @@
 {
-  "name": "image-carousel",
+  "name": "imagecarousel",
   "version": "1.0.0",
   "description": "A function that creates an image slider",
   "main": "imageCarousel.js",
